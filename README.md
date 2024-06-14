@@ -8,6 +8,9 @@ Welcome to my GitHub profile!
 
 I'm **Sadiq Hussain** from Trivandrum. I'm a passionate Java Developer with a background in IT, holding a BSc in Computer Science. Coding is not just my profession but my passion. I love to take new risks and explore new technologies.
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
 ## What I'm Working On
 
 - 🔭 Currently working at **Brototype**
@@ -17,9 +20,10 @@ I'm **Sadiq Hussain** from Trivandrum. I'm a passionate Java Developer with a ba
 
 - 🤔 Actively looking for job opportunities where I can contribute my skills and grow further.
 
-## Get In Touch
+## Connect with Me
 
-Feel free to reach out to me for any collaboration or job opportunities.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 
 ---
 
