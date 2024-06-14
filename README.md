@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile!
 
-**Sadiq2k/Sadiq2k** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
-
 ## About Me
 
 I'm **Sadiq Hussain** from Trivandrum. I'm a passionate Java Developer with a background in IT, holding a BSc in Computer Science. Coding is not just my profession but my passion. I love to take new risks and explore new technologies.
