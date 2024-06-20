@@ -36,14 +36,6 @@ I'm **Sadiq Hussain** from Trivandrum. I'm a passionate Java Developer with a ba
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
       <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
       <br>HTML
     </td>
