@@ -32,12 +32,16 @@ I'm **Sadiq Hussain** from Trivandrum. I'm a passionate Java Developer with a ba
       <br>CSS3
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      <br>JavaScript
+      <img src="https://img.shields.io/badge/Angular-17-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular 17" />
+      <br>Angular 17
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-      <br>React
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+      <br>TypeScript
     </td>
   </tr>
 </table>
@@ -50,8 +54,12 @@ I'm **Sadiq Hussain** from Trivandrum. I'm a passionate Java Developer with a ba
       <br>Java
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-      <br>Spring
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+      <br>Spring Boot
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework" />
+      <br>Spring Framework
     </td>
     <td align="center" width="96">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
