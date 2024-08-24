@@ -175,3 +175,7 @@ I'm **Sadiq Hussain** from Trivandrum. I'm a ardent Java Developer with a backgr
 ---
 
 Thank you for visiting my profile!
+
+## GitHub Streak
+
+![Sadiq's GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=dark&hide_border=true)
