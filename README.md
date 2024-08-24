@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-I'm **Sadiq Hussain** from Trivandrum. I'm a ardent Java Developer with a background in IT, holding a BSc in Computer Science. Coding is not just my profession but my passion. I love to take new risks and explore new technologies.
+I'm **Sadiq Hussain** from Trivandrum. I'm a passionate Java Developer with a background in IT, holding a BSc in Computer Science. Coding is not just my profession but my passion. I love to take new risks and explore new technologies.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -17,6 +17,10 @@ I'm **Sadiq Hussain** from Trivandrum. I'm a ardent Java Developer with a backgr
 ## Looking For Opportunities
 
 - 🤔 Actively looking for job opportunities where I can contribute my skills and grow further.
+
+## GitHub Streak
+
+![Sadiq's GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=dark&hide_border=true)
 
 ## Skills
 
@@ -161,21 +165,3 @@ I'm **Sadiq Hussain** from Trivandrum. I'm a ardent Java Developer with a backgr
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadiq-hussain-88376627a/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sadiq_hussain._/)
-
----
-
-### More About Me
-
-- 💻 I specialize in Java development.
-- 🎓 IT background with a BSc in Computer Science.
-- ❤️ I love coding and always eager to learn new things.
-- 🌍 Based in Trivandrum, India.
-
----
-
-Thank you for visiting my profile!
-
-## GitHub Streak
-
-![Sadiq's GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=dark&hide_border=true)
