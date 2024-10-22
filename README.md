@@ -28,10 +28,6 @@ I'm **Sadiq Hussain** from Trivandrum. I'm a ardent Java Developer with a backgr
       <br>Java
     </td>
     <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-      <br>Spring Boot
-    </td>
-    <td align="center" width="96">
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
       <br>TypeScript
     </td>
@@ -57,17 +53,9 @@ I'm **Sadiq Hussain** from Trivandrum. I'm a ardent Java Developer with a backgr
       <img src="https://img.shields.io/badge/Angular-17-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular 17" />
       <br>Angular 17
     </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-      <br>Tailwind CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/OpenAPI-85EA2D?style=for-the-badge&logo=openapi-initiative&logoColor=black" alt="OpenAPI" />
-      <br>OpenAPI
-    </td>
-    <td align="center" width="96">
-      <img src="https://img.shields.io/badge/Angular_Material-009688?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Material" />
-      <br>Angular Material
+     <td align="center" width="96">
+      <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+      <br>Spring Boot
     </td>
   </tr>
 </table>
